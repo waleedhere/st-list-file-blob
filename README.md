@@ -5,4 +5,4 @@ This is the script will list all the files and the blob inside the Azure Storage
 
 Here are the folloing requirements to run the sccript:
 - pip install azure-storage-blob
-- SAS token with 'list' right and to have acces
+- SAS token with 'list' right and to have allowed resources type for services, containers and object.
